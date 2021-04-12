@@ -1,0 +1,8 @@
+.para_cls{
+    text-transform: uppercase;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
